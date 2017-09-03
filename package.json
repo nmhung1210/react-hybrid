@@ -1,0 +1,31 @@
+{
+  "name": "react-hybrid-app",
+  "version": "0.1.0",
+  "description": "Using react-native to build hybrid app which compatible with wide range Android, iOS devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmhung1210/react-hybrid-app.git"
+  },
+  "keywords": [
+    "react-hybrid-app",
+    "react-hybrid",
+    "react",
+    "hybrid",
+    "app",
+    "react",
+    "webapp"
+  ],
+  "author": "Hung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmhung1210/react-hybrid-app/issues"
+  },
+  "homepage": "https://github.com/nmhung1210/react-hybrid-app#readme",
+  "dependencies": {
+    "react-native": "^0.48.0"
+  }
+}
